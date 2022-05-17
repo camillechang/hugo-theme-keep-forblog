@@ -3,13 +3,14 @@
   English
   <a title="Chinese" href="README_zh-CN.md">简中</a>
   <a title="Chinese" href="README_zh-TW.md">繁中</a>
-  
+
 </div>
 
 <a href="https://xpoet.cn"><img align="center" alt="Keep" src="https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/hexo-theme-keep/keep-logo-slogan.svg"></a>
 
 # hexo-theme-keep
 
+目前这个版本是修改过内容的 theme.给我的 blog 专用。
 «Keep» is a simple and elegant [Hexo](https://hexo.io) theme. It makes you more focused on writing.
 
 [![Github License](https://img.shields.io/github/license/XPoet/hexo-theme-keep.svg?style=flat-square)](https://github.com/XPoet/hexo-theme-ils/blob/master/LICENSE)
@@ -111,4 +112,3 @@ This project exists thanks to all the people who contribute.
 ## :memo: License
 
 [MIT](https://github.com/XPoet/picx/blob/master/LICENSE) Copyright © 2020-2021 XPoet
-
